@@ -7,7 +7,9 @@
 
 # THANKS
 
-    <name>
+    <Mikalum Fernando>
+    <kalumsneha@yahoo.com>
+    <Software engineer>
 
 # TECHNOLOGY COLOPHON
 
