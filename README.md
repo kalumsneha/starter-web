@@ -2,10 +2,13 @@
 #Starter Web Project
 
 ##Introduction
+Intor
 
 ##Git and Github Training
+Training
 
 ##Git Comparisons
+Comparisons
 
 # Starter Web Repo
 
