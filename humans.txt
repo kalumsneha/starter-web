@@ -9,9 +9,10 @@
 
     <Mikalum Fernando>
     <kalumsneha@yahoo.com>
-    <Software engineer>
+    <Software>
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular, jQuery, Ajax
     jQuery, Modernizr
+    Docker, Java
