@@ -17,3 +17,5 @@
     HTML5, CSS3, Angular, jQuery
     jQuery, Modernizr
     Maching learning, AWS
+
+    Hi modifying file before rebase
