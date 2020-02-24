@@ -10,6 +10,7 @@
     <Mikalum Fernando>
     <kalumsneha@yahoo.com>
     <Software>
+    GNL Systems
     Thanks
 
 # TECHNOLOGY COLOPHON
@@ -17,5 +18,6 @@
     HTML5, CSS3, Angular, jQuery
     jQuery, Modernizr
     Maching learning, AWS
+    Devops Engineer Level 3
 
     Hi modifying file before rebase
